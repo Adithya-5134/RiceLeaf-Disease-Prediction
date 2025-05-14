@@ -37,8 +37,6 @@ Each image represents a rice leaf affected by one of the disease types. The mode
 - 💧 Dropout Regularization
 - 🧠 Softmax Output Layer
 
-*(Details about number of layers, activation functions, and optimizer used can be added)*
-
 ## 📉 **Metrics Used**
 
 - 📌 Accuracy
